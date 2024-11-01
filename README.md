@@ -14,6 +14,12 @@ Welcome to my GitHub! I'm Pakshal Bhandari, a passionate and driven software eng
 - **Relevant Courses:** Machine Learning, Natural Language Processing, Game Design.
 
 ## Experience
+### Intern | Quicken, Menlo Park
+- Utilized SQL for data integration from disparate sources and employed visualization tools like QuickSight and
+  Tableau to generate insightful reports for addressing business questions.
+- Applied Python and database concepts to optimize data processing workflows and improve system
+  performance.
+  
 ### Software Engineer | Betsol, Bengaluru
 - Led Python and supervised machine learning training sessions, improving team efficiency by 20% and reducing onboarding time by 15%.
 - Architected client-side data deduplication resulting in a 42% reduction in storage requirements.
