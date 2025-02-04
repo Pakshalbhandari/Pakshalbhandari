@@ -10,29 +10,35 @@ Welcome to my GitHub! I'm Pakshal Bhandari, a passionate and driven software eng
 - **Programming Languages:** Python, R, Golang
 - **Domains:** Full-Stack Development, Machine Learning, Image Processing, SQL
 - **Operating Systems:** Linux, Windows, Mac
-- **Technologies:** Django, Flask, React JS, MySQL, PostgreSQL, Docker, AWS, Azure, nltk, tensorflow, sklearn.
-- **Relevant Courses:** Machine Learning, Natural Language Processing, Game Design.
+- **Technologies:** Django, Flask, React JS, MySQL, PostgreSQL, Docker, AWS, Azure, nltk, tensorflow, sklearn,LangChain, streamlit
 
 ## Experience
 ### Intern | Quicken, Menlo Park
-- Utilized SQL for data integration from disparate sources and employed visualization tools like QuickSight and
-  Tableau to generate insightful reports for addressing business questions.
-- Applied Python and database concepts to optimize data processing workflows and improve system
-  performance.
+- Integrated customer data from 5+ databases using AWS Athena and built Quicksight dashboards to visualize
+demographics and purchase behavior, enabling data-driven decisions.
+- Diagnosed and rectified 20+ critical bugs in SQL pipelines, improving data reliability by 30% for stakeholder
+dashboards.
+- Collaborated cross-functionally to resolve 50+ weekly data discrepancies, ensuring 99% report accuracy for teams.
   
 ### Software Engineer | Betsol, Bengaluru
-- Led Python and supervised machine learning training sessions, improving team efficiency by 20% and reducing onboarding time by 15%.
-- Architected client-side data deduplication resulting in a 42% reduction in storage requirements.
-- Designed RESTful APIs with Django, boosting backend performance by 25%.
-- Led agile teams, achieving a 40% reduction in bug resolution time and ensuring rapid deployment on AWS EC2.
+- Architected RESTful APIs using Django, enhancing backend performance by 25% and reducing API response
+time by 200ms.
+- Deployed CI/CD pipelines via Jenkins, automating testing and slashing deployment cycles by 35%.
+- Integrated HashiCorp Vault to streamline cryptographic infrastructure, reducing setup time by 40% and enhancing
+security compliance.
+- Automated data scraping/parsing with Python, improving support team efficiency in debugging by 35% and
+reducing issue resolution time by 50%
 
 ### Associate Software Engineer | Betsol, Bengaluru
-- Engineered integrations with HashiCorp Vault, enhancing security measures and reducing cryptographic infrastructure development time.
-- Introduced Python-based automated scripts, improving support team efficiency by 28%.
-- Developed Python modules for file-level recovery, significantly reducing restore time.
-- Migrated a million Salesforce records to HubSpot CRM with zero downtime.
+- Streamlined data management using Python and HashiCorp Vault, boosting process efficiency by 20% and
+reducing manual errors by 25%.
+- Implemented Python-based automated scripts for data scraping, parsing, and analysis, significantly improving
+support team efficiency in debugging and issue resolution.
+- Utilized HashiCorp Vault and Python to streamline processes and improve data management capabilities.
 
 ## Projects
+- **Cold email Generator:** Developed a Cold Email Generator using LangChain, Python, HuggingFace Transformers and Streamlit to
+personalize outreach emails based on job description link.
 - **Prediction of Employee Attrition:** Developed REST APIs in Django, promoted to full-time role based on exceptional performance.
 - **Fake News Detection:** Implemented a robust multimodal solution using Bi-Directional LSTM, CNN, and Logistic Regression achieving 95.8% accuracy.
 - **Pothole Detection and Geotagging:** Trained a model to detect potholes and map coordinates using YOLO v3.
